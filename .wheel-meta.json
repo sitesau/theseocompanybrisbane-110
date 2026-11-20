@@ -1,0 +1,22 @@
+{
+  "wheel_id": 937,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-110",
+  "project": "brisbane-seo-services-glossary-41f87ccf953a81f301d9472640862fbd",
+  "parent_t1_ref": "theseocompanybrisbane-155",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "brisbane seo services glossary",
+  "intended_url": "http://brisbane-seo-services-glossary-41f87ccf953a81f301d9472640862fbd.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "442685774179617c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/brisbane-seo-services-b152fdc385e782fbbdb86b8b9ad9de8062914e64/",
+      "anchor": "more on brisbane seo services",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
